@@ -1,0 +1,14 @@
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/lib_easy_example/CMakeFiles/EasyExample.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/lib_easy_example/CMakeFiles/edit_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/lib_easy_example/CMakeFiles/rebuild_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/main/CMakeFiles/Application.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/main/CMakeFiles/edit_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/main/CMakeFiles/rebuild_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/gtest/CMakeFiles/gtest.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/gtest/CMakeFiles/edit_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/gtest/CMakeFiles/rebuild_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/tests/CMakeFiles/Tests.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/vasilijperaskin/Repository/Algorithms-and-Data-Structures-main/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
